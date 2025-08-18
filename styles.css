@@ -25,5 +25,18 @@ line-height:1.6;
 margin-bottom:15px;
 }
 img{
-display:blok
+display:blok;
+margin:20px auto;
+max-width:100%;
+border:3px solid #b30059;
+border-radius:10px;
+}
+footer{
+backgroud-color:#055081;
+color:#555;
+text-align:center;
+padding:15px;
+margin-top:40px;
+font-size:14px;
+}
 
